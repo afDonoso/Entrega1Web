@@ -3,3 +3,4 @@ The objective of this project is to make my own CV. Hence, you'll see informatio
 For this project, I'll be using HTML, CSS and Bootstrap.
 
 ## Webpage
+With this [link](https://afdonoso.github.io/Entrega1Web/) you can access the webpage of my CV.
