@@ -20,3 +20,8 @@ footer a:hover {
 th img {
     width: 25px;
 }
+
+.project-info {
+    text-align: justify;
+    text-justify: inter-word;
+}
