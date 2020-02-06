@@ -67,10 +67,22 @@ th img {
 }
 
 .card-face-front-title {
-    border-radius: 10px;
     width: 100%;
     text-align: center;
     color: white;
+}
+
+.card-face-front p {
+    align-self: flex-end;
+    text-align: center;
+    color: white;
+}
+
+.card-separator {
+    background-color: white;
+    margin: 10;
+    width: 50%;
+    text-align: center;
 }
 
 #music-card-front {
